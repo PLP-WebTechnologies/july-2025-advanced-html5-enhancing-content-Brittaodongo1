@@ -1,0 +1,42 @@
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Assignment Web Page</title>
+  <!-- Link to external stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Assignment Page</h1>
+    <p>This page shows structured HTML content linked with an external CSS file.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About</h2>
+      <p>This section contains information about the page.</p>
+    </section>
+
+    <section>
+      <h2>Features</h2>
+      <ul>
+        <li>Selectors and styling properties</li>
+        <li>Box Model implementation</li>
+        <li>Consistent layout</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>Email: student@example.com</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 My Assignment Page</p>
+  </footer>
+</body>
+</html>
